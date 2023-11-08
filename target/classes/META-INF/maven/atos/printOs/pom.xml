@@ -3,13 +3,5 @@
   <groupId>atos</groupId>
   <artifactId>printOs</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>PrintOD</name>
-
-  <properties>
-    <maven.compiler.target>19</maven.compiler.target>
-    <maven.compiler.source>19</maven.compiler.source>
-      
-  </properties>
-
-    
+  <name>PrintOD</name>    
 </project>
