@@ -6,5 +6,6 @@ class Bike{
     System.out.println("Welcome to Bike class show room");
     System.out.println("Welcome to Bike class show room");
     System.out.println("Welcome to Bike class show room");
+    System.out.println("Welcome to Bike class show room");
   }
 }
