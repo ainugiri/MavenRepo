@@ -5,4 +5,9 @@ class Sample3
   {
     return a+b;
   }
+  public static void main(String[] args)
+  {
+    Sample3 s = new Sample3();
+    System.out.println(s.sum(10, 20));
+  }
 }
