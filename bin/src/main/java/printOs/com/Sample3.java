@@ -9,5 +9,6 @@ class Sample3
   {
     Sample3 s = new Sample3();
     System.out.println(s.sum(10, 20));
+    System.out.println(s.sum(20, 30));
   }
 }
