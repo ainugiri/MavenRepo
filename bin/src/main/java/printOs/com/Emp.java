@@ -6,6 +6,7 @@ class Emp{
   char s;
 
   void display(){
+    System.out.println("Welcome to Jenkins");
   }
   void toString(){
   }
